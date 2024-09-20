@@ -1,0 +1,13 @@
+	iphone	galaxy
+jan	76	54
+feb	81	47
+mar	84	42
+apr	91	35
+may	90	36
+jun	88	57
+jul	81	65
+aug	73	75
+sep	71	80
+oct	63	82
+nov	61	85
+dec	57	90
