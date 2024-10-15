@@ -1,0 +1,6 @@
+	kia	hyundai	bmw
+1st	76	54	40
+2nd	81	47	55
+3rd	84	42	67
+4th	91	35	80
+
