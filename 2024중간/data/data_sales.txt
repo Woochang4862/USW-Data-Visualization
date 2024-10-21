@@ -1,0 +1,4 @@
+	suwon	daegu	seoul	daejeon	busan
+2022	76	54	40	10	70
+2023	81	47	55	20	60
+2024	84	42	67	30	55
