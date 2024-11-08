@@ -1,0 +1,9 @@
+	x	y
+aa	0	0
+bb	0	2
+cc	1	1
+dd	3	5
+ee	5	3
+ff	4	1
+gg	2	5
+hh	4	0
